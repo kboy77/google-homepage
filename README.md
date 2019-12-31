@@ -1,0 +1,1 @@
+This is an exercise where I will use Google Developer tools to rebuild the google homepage (simple page with a search bar)
